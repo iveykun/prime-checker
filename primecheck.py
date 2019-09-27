@@ -15,7 +15,7 @@ def primes(num):
         counter +=1
         
     if counter == num:
-        print("t")
+        print("is prime")
         
 while 1==1:
     primes(int(input("enter prime")))
